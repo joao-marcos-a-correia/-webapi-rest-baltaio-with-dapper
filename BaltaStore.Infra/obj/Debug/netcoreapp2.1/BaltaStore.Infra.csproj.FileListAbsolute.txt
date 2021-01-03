@@ -1,0 +1,14 @@
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Infra\bin\Debug\netcoreapp2.1\BaltaStore.Infra.deps.json
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Infra\bin\Debug\netcoreapp2.1\BaltaStore.Infra.dll
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Infra\bin\Debug\netcoreapp2.1\BaltaStore.Infra.pdb
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Infra\bin\Debug\netcoreapp2.1\BaltaStore.Domain.dll
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Infra\bin\Debug\netcoreapp2.1\BaltaStore.Shared.dll
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Infra\bin\Debug\netcoreapp2.1\BaltaStore.Domain.pdb
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Infra\bin\Debug\netcoreapp2.1\BaltaStore.Shared.pdb
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Infra\obj\Debug\netcoreapp2.1\BaltaStore.Infra.csprojAssemblyReference.cache
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Infra\obj\Debug\netcoreapp2.1\BaltaStore.Infra.AssemblyInfoInputs.cache
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Infra\obj\Debug\netcoreapp2.1\BaltaStore.Infra.AssemblyInfo.cs
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Infra\obj\Debug\netcoreapp2.1\BaltaStore.Infra.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Infra\obj\Debug\netcoreapp2.1\BaltaStore.Infra.csproj.CopyComplete
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Infra\obj\Debug\netcoreapp2.1\BaltaStore.Infra.dll
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Infra\obj\Debug\netcoreapp2.1\BaltaStore.Infra.pdb

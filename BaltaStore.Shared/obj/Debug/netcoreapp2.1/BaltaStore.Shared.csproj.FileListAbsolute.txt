@@ -1,0 +1,9 @@
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Shared\bin\Debug\netcoreapp2.1\BaltaStore.Shared.deps.json
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Shared\bin\Debug\netcoreapp2.1\BaltaStore.Shared.dll
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Shared\bin\Debug\netcoreapp2.1\BaltaStore.Shared.pdb
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Shared\obj\Debug\netcoreapp2.1\BaltaStore.Shared.csprojAssemblyReference.cache
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Shared\obj\Debug\netcoreapp2.1\BaltaStore.Shared.AssemblyInfoInputs.cache
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Shared\obj\Debug\netcoreapp2.1\BaltaStore.Shared.AssemblyInfo.cs
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Shared\obj\Debug\netcoreapp2.1\BaltaStore.Shared.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Shared\obj\Debug\netcoreapp2.1\BaltaStore.Shared.dll
+C:\Users\joaom\Documents\GitHub\BaltaStore\BaltaStore.Shared\obj\Debug\netcoreapp2.1\BaltaStore.Shared.pdb
